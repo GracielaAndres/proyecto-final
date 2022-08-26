@@ -1,0 +1,27 @@
+/*footer*/
+.footer {
+    overflow: hidden;
+    background-color: #f8b3f2;
+    padding: 20px 10px;
+
+
+    .footer a {
+        float: left;
+        text-align: center;
+        padding: 12px;
+        text-decoration: none;
+        font-size: 60px;
+        line-height: 25px;
+        border-radius: 4px;
+    }
+
+    .footer a.logo {
+        font-size: 60px;
+        font-weight: bold;
+        color: rgb(124, 50, 132);
+    }
+
+    .redes-right {
+        float: right;
+    }
+}

@@ -1,0 +1,31 @@
+/*header nav */
+.top {
+    background-color: #614469;
+
+    #navbar {
+        float: left;
+
+
+        ul {
+            float: right;
+
+
+            li {
+                list-style: none;
+                float: left;
+
+
+                a {
+                    display: block;
+                    padding: 20px;
+                    text-align: center;
+
+
+                    a:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+}

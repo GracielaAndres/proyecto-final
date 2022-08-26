@@ -1,0 +1,23 @@
+@media only screen and (max-width: 768px) {
+
+    #navbar {
+        text-align: center;
+
+        .logo {
+            float: none;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            float: none;
+
+            li {
+                float: none;
+
+                a {
+                    padding: 10px;
+                }
+            }
+        }
+    }
+}
