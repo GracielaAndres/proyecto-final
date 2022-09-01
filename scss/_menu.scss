@@ -1,31 +1,36 @@
 /*header nav */
-.top {
-    background-color: #614469;
+// Navbar
+#navbar {
 
-    #navbar {
-        float: left;
+    // height: 10vh;
+    display: flex;
+    padding: 3rem;
 
+    img {
+        height: 50px;
+    }
 
-        ul {
-            float: right;
-
-
-            li {
-                list-style: none;
-                float: left;
-
-
-                a {
-                    display: block;
-                    padding: 20px;
-                    text-align: center;
+    //End .logo
+    ul {
 
 
-                    a:hover {
-                        text-decoration: underline;
-                    }
-                }
+        li {
+            list-style: none;
+
+
+            a {
+                display: block;
+                padding: 20px;
+                text-align: center;
+            }
+
+            a:hover {
+                text-decoration: underline;
             }
         }
     }
+
+    //End ul
 }
+
+//End #navbar

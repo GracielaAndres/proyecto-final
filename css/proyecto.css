@@ -46,7 +46,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: white; }
+  color: rgb(17, 9, 9); }
   .hero .hero h2 {
     font-family: "PT Mono", monospace;
     font-weight: 400px;
@@ -122,7 +122,7 @@
 #mainproducto {
   height: 2300px;
   background: pink;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.097);
   padding-top: 90px;
   padding-bottom: 90px;
   text-align: center; }
