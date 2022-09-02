@@ -85,7 +85,8 @@
 /*header nav */
 #navbar {
   display: flex;
-  padding: 3rem; }
+  padding: 3rem;
+  background-color: #fca5b3; }
   #navbar img {
     height: 50px; }
   #navbar ul li {

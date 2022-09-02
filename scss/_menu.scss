@@ -1,13 +1,12 @@
 /*header nav */
 // Navbar
-.top{
-    background-color: rgb(252, 129, 150);
-}
+
 #navbar {
 
     // height: 10vh;
     display: flex;
     padding: 3rem;
+    background-color: rgb(252, 165, 179);
 
     img {
         height: 50px;
@@ -15,11 +14,11 @@
 
     //End .logo
     ul {
-      
+
 
         li {
             list-style: none;
-        
+
 
             a {
                 display: block;
@@ -35,5 +34,6 @@
 
     //End ul
 }
+
 
 //End #navbar
